@@ -14,6 +14,6 @@ Move 'StackOverflow.tmTheme' to this folder after cloning the repository, or jus
 
 Next, open Sublime Text (3). For Windows, press CTRL + Shift + P to open package control (for Mac COMMAND + Shift + P), and type 'UI'. One of the first things to pop up should be 'UI: Select Colour Scheme'. Click on this, then search for the StackOverflow theme. Click on this option, then enjoy!
 
-# Screenshots
+# Information
 
-![SOSublime](https://cdn.discordapp.com/attachments/705399482422132740/725659077501517864/unknown.png)
+This colour scheme is specifically made for python, but it works with any language, just optimised for python.
