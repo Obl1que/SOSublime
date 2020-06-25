@@ -16,4 +16,4 @@ Next, open Sublime Text (3). For Windows, press CTRL + Shift + P to open package
 
 # Screenshots
 
-![SOSublime](https://cdn.discordapp.com/attachments/705399482422132740/725659077501517864/unknown.png?raw=true)
+![SOSublime](https://cdn.discordapp.com/attachments/705399482422132740/725659077501517864/unknown.png)
